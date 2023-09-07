@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Schools of New York</string>
+    <string name="error_fetching_schools">Error fetching schools</string>
+    <string name="offline_error_fetching">Seems the device is offline</string>
+    <string name="error_fetching_schools_empty">Server returned empty list</string>
+    <string name="error_fetching_school_sat">Error fetching school sat</string>
+    <string name="unknown_error">Unknown Error. Please try again</string>
+    <string name="school">School:</string>
+    <string name="number_of_test_takers">Number of test takers:</string>
+    <string name="average_reading_scores">Average Critical Reading Scores:</string>
+    <string name="average_math_scores">Math Average Scores:</string>
+    <string name="average_writing_scores">Writing Average Scores:</string>
+</resources>

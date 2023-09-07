@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="SchoolServiceTest">
+        <State />
+      </entry>
+      <entry key="SchoolServiceTest.fetch_employees_list_from_network_success">
+        <State />
+      </entry>
+      <entry key="SchoolViewModelTest">
+        <State />
+      </entry>
+      <entry key="SchoolViewModelTest.fetch_employees_from_network_success_response">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
